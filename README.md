@@ -474,12 +474,14 @@ nav a:hover {
 ### 1. Tambahkan Layout untuk menu About
 ### => buat single layout yang berisi deskripsi, portfolio, dll
 
-gbr
+![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/5bd30c58-0e28-462d-9a6d-5b1ecb448611)
+
 
 ### 2. Tambahkan layout untuk menu Contact
-### => yang berisi form isian: nama, email, message, dll
+#### => yang berisi form isian: nama, email, message, dll
 
-gbr
+![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/84e45294-e141-4c17-93c6-4f884c3cb6d5)
+
 
 
 
