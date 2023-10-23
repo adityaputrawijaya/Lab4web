@@ -470,11 +470,13 @@ nav a:hover {
 ![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/cd39c188-5fcc-43e8-9ceb-d17c29a920a5)
 
 
-### Pertanyaan dan Tugas
-### 1. Tambahkan Layout untuk menu About
+
+# Pertanyaan dan Tugas
+## 1. Tambahkan Layout untuk menu About
 ### => buat single layout yang berisi deskripsi, portfolio, dll
 
 ![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/5bd30c58-0e28-462d-9a6d-5b1ecb448611)
+
 
 
 ### 2. Tambahkan layout untuk menu Contact
